@@ -7,4 +7,4 @@ Application for creating a family tree.
 - Plain Rails until user logs in.
 - Backbone.js for SPA experience after logged in.
 - React.js for views.
-    
+- Registration requires invitation code.

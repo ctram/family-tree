@@ -1,4 +1,10 @@
 source 'https://rubygems.org'
+
+gem 'backbone-on-rails'
+gem 'faker'
+gem 'fabrication'
+gem 'figaro' # prevent environment access keys from getting pushed to git
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use postgresql as the database for Active Record
