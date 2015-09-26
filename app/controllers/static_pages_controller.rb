@@ -1,4 +1,4 @@
 class StaticPagesController < ApplicationController
-  def sign_in
+  def front
   end
 end
